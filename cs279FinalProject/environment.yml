@@ -1,0 +1,13 @@
+name: cs279-finalp
+channels:
+  - defaults
+dependencies:
+  - python=2.7
+  - matplotlib
+  - pillow
+  - scipy
+  - numpy
+  - scikit-learn
+  - pandas
+prefix: /anaconda3/envs/cs279-finalp
+
